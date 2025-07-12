@@ -51,7 +51,7 @@ EquiHealth is a comprehensive web-based healthcare analytics platform that lever
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/equihealth.git
+   git clone https://github.com/MaheshR03/equihealth.git
    cd equihealth
    ```
 
@@ -249,8 +249,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or support:
 
 - **Email**: contact@equihealth.com
-- **Documentation**: [Project Wiki](https://github.com/yourusername/equihealth/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/equihealth/issues)
+- **Documentation**: [Project Wiki](https://github.com/MaheshR03/equihealth/wiki)
+- **Issues**: [GitHub Issues](https://github.com/MaheshR03/equihealth/issues)
 
 ## 🔮 Future Enhancements
 
