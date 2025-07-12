@@ -1,0 +1,5 @@
+District,Latitude,Longitude,TB Incidence,Diabetes Prevalence,Malaria Incidence,HIV/AIDS Prevalence,IMR,Vaccination Rate,Income Level,Employment Rate,Education Level,Housing Conditions,Urbanization Rate,AQI,Annual Rainfall
+Ahmedabad,23.0225,72.5714,250,8.5,15,0.8,45,85,65,72,78,85,88,78,650
+Surat,21.1702,72.8311,180,7.2,12,0.6,38,90,70,75,82,88,92,72,680
+Vadodara,22.3072,73.1812,200,6.8,18,0.7,42,88,68,73,80,86,85,75,720
+Rajkot,22.3039,70.8022,220,7.5,20,0.9,48,83,62,70,75,82,80,80,580
