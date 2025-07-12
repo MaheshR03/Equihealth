@@ -102,8 +102,6 @@ EquiHealth is a comprehensive web-based healthcare analytics platform that lever
 ![Resources Page](screenshots/resources-page.png)
 ![About Page](screenshots/about-page.png)
 
-> **Note**: To add screenshots, create a `screenshots/` folder in your repository and upload PNG/JPG images of your application pages. Update the file paths above accordingly.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -338,7 +336,7 @@ For questions, suggestions, or support:
 
 **Built with ❤️ for better healthcare outcomes**
 
-[Website](https://equihealth.com) • [Documentation](https://docs.equihealth.com) • [Demo](https://demo.equihealth.com)
+[Website](https://equihealth.onrender.com) • [Documentation](https://docs.equihealth.com) • [Demo](https://equihealth.onrender.com)
 
 </div>
 
