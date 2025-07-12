@@ -9,6 +9,10 @@
 
 EquiHealth is a comprehensive web-based healthcare analytics platform that leverages machine learning to analyze health metrics, predict outcomes, and visualize healthcare accessibility across different regions. The platform enables healthcare professionals, policymakers, and researchers to make informed decisions based on comprehensive data analysis.
 
+## 🚀 Deployment
+
+**🌐 Live Demo**: [https://equihealth.onrender.com](https://equihealth.onrender.com)
+
 ## 🌟 Features
 
 ### 📊 **Data Analytics & Visualization**
@@ -67,6 +71,40 @@ EquiHealth is a comprehensive web-based healthcare analytics platform that lever
 
 4. **Access the platform**
    Open your browser and navigate to `http://localhost:5000`
+
+---
+
+## 📸 Application Screenshots
+
+### **🏠 Landing Page**
+*Modern glassmorphism design with intuitive navigation*
+
+![Landing Page](screenshots/landing-page.png)
+
+### **📊 Data Upload Interface**
+*Intuitive CSV upload with intelligent column mapping*
+
+![Upload Page](screenshots/upload-page.png)
+
+### **📈 Analytics Dashboard**
+*Comprehensive data analysis and results*
+
+![Report Page](screenshots/report-page.png)
+
+### **🗺️ Interactive Maps**
+*Plotly-powered geographic visualizations with hover functionality*
+
+![Interactive Map](screenshots/interactive-map.png)
+
+### **📚 Resources & About**
+*External resources and platform information*
+
+![Resources Page](screenshots/resources-page.png)
+![About Page](screenshots/about-page.png)
+
+> **Note**: To add screenshots, create a `screenshots/` folder in your repository and upload PNG/JPG images of your application pages. Update the file paths above accordingly.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -304,8 +342,6 @@ For questions, suggestions, or support:
 
 </div>
 
-## 🚀 Deployment
-
 Ready to deploy EquiHealth to production? Check out our comprehensive deployment guide:
 
 **📋 [View Complete Deployment Guide](DEPLOYMENT.md)**
@@ -322,6 +358,3 @@ The deployment guide includes:
 - Security considerations
 - Monitoring and analytics setup
 - Pre-deployment checklist
-
----
-
