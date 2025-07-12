@@ -42,6 +42,21 @@ Render is perfect for EquiHealth because it offers:
    - Click "Create Web Service"
    - Automatic deployment from GitHub pushes
 
+5. **Keep Your App Alive (Free Tier)**
+   
+   ⚠️ **Free tier spins down after 15 minutes of inactivity**
+   
+   **Solutions:**
+   - **UptimeRobot**: Set up free monitoring to ping every 10 minutes
+   - **Upgrade to Starter ($7/month)**: Always-on with better performance
+   - **Accept cold starts**: 30-60 second delay for first visitor
+   
+   **Set up UptimeRobot:**
+   1. Go to [uptimerobot.com](https://uptimerobot.com)
+   2. Create HTTP(s) monitor with your Render URL
+   3. Set interval to 5-10 minutes
+   4. Your app stays warm automatically!
+
 ### **🚀 Alternative: Railway**
 
 Modern platform with excellent Python support:
