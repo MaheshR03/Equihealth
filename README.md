@@ -336,7 +336,7 @@ For questions, suggestions, or support:
 
 **Built with ❤️ for better healthcare outcomes**
 
-[Website](https://equihealth.onrender.com) • [Documentation](https://docs.equihealth.com) • [Demo](https://equihealth.onrender.com)
+[Website](https://equihealth.onrender.com) • [Docs](https://github.com/MaheshR03/equihealth/wiki) • [Requirements](requirements.txt)
 
 </div>
 
